@@ -2,7 +2,7 @@
 
 ## Todo con fines educativos
 
-Si puedes mejorar el código, bienvenido!
+Si puedes mejorar el código, bienvenido! Saludos
 
 ```html
 <template id="template">
